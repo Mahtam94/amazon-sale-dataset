@@ -9,3 +9,5 @@ Similar patterns across different classes
 Limited features (e.g., no customer behavior, no time patterns)
 
 Small dataset size (250 rows)
+
+Link to dataset: https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data
